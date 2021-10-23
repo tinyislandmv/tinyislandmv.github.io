@@ -43,7 +43,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 31,
     "versionPublish": "5.4.1"
   },
